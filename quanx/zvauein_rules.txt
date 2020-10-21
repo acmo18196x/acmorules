@@ -1,0 +1,2 @@
+HOST-SUFFIX,umeng.com,DIRECT
+HOST-SUFFIX,mmmono,DIRECT
